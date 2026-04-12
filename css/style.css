@@ -7,3 +7,9 @@ body {
 #games {
   font-size:100px;
 }
+
+#navigation {
+  border:5px;
+  border-radius:5px;
+  width:100%
+}
